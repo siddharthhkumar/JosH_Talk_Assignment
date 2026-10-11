@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.DS_Store
+
+# Real worker data must never be committed (privacy).
+data/
+*.xlsx
+# Real-data outputs (keep the folder and the labelled synthetic demo only)
+outputs/*
+!outputs/.gitkeep
+!outputs/synthetic_demo/

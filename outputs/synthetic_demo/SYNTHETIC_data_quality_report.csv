@@ -1,0 +1,20 @@
+﻿check,value
+data_source,SYNTHETIC - NOT REAL JOSH TALKS DATA
+duplicate_rows_removed,2
+duration_missing_or_nonpositive,2
+duration_unparseable,1
+edit_flag_consistency,"{'consistent': 282, 'not_checkable': 2, 'flag_no_but_text_changed': 1}"
+is_edited_unrecognized_or_missing,1
+median_rel_diff_vs_audio_duration,0.0
+median_rel_diff_vs_time_taken,0.657
+rows_after_cleaning,285
+rows_input,287
+rows_missing_user_id_removed,0
+rows_with_supplied_cps,285
+segment_character_per_second_unparseable,0
+share_matching_chars_per_audio_duration,0.989
+share_matching_chars_per_time_taken,0.123
+time_taken_by_user_unparseable,0
+time_taken_missing_or_nonpositive,1
+user_text_missing,1
+whisper_text_missing,0

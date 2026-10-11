@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
+# Optional: only for dashboard.py
+# streamlit>=1.30
+# Optional: only for .xlsx input
+# openpyxl>=3.1
