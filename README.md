@@ -1,4 +1,5 @@
-# Josh Talks AI Product Task: Question 2
+# Josh Talks AI Product Task
+
 ### Detecting potentially low-quality reviewers of Whisper-generated Hindi transcripts
 
 An interpretable, rules-based screening pipeline. It finds transcription reviewers whose **repeated** behaviour suggests they may be accepting AI output without really checking it, and routes them to **human quality review**. It does not decide that anyone is low quality, and it never suspends or blocks accounts.
